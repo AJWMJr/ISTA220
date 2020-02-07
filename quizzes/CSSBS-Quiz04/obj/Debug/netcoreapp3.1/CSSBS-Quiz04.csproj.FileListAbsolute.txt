@@ -1,0 +1,11 @@
+C:\Users\wwstudent\source\repos\CSSBS-Quiz04\bin\Debug\netcoreapp3.1\CSSBS-Quiz04.exe
+C:\Users\wwstudent\source\repos\CSSBS-Quiz04\bin\Debug\netcoreapp3.1\CSSBS-Quiz04.deps.json
+C:\Users\wwstudent\source\repos\CSSBS-Quiz04\bin\Debug\netcoreapp3.1\CSSBS-Quiz04.runtimeconfig.json
+C:\Users\wwstudent\source\repos\CSSBS-Quiz04\bin\Debug\netcoreapp3.1\CSSBS-Quiz04.runtimeconfig.dev.json
+C:\Users\wwstudent\source\repos\CSSBS-Quiz04\bin\Debug\netcoreapp3.1\CSSBS-Quiz04.dll
+C:\Users\wwstudent\source\repos\CSSBS-Quiz04\bin\Debug\netcoreapp3.1\CSSBS-Quiz04.pdb
+C:\Users\wwstudent\source\repos\CSSBS-Quiz04\obj\Debug\netcoreapp3.1\CSSBS-Quiz04.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\CSSBS-Quiz04\obj\Debug\netcoreapp3.1\CSSBS-Quiz04.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\CSSBS-Quiz04\obj\Debug\netcoreapp3.1\CSSBS-Quiz04.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\CSSBS-Quiz04\obj\Debug\netcoreapp3.1\CSSBS-Quiz04.dll
+C:\Users\wwstudent\source\repos\CSSBS-Quiz04\obj\Debug\netcoreapp3.1\CSSBS-Quiz04.pdb

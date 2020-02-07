@@ -1,0 +1,6 @@
+C:\Users\wwstudent\source\repos\ProgramEx01\bin\Debug\ProgramEx01.exe.config
+C:\Users\wwstudent\source\repos\ProgramEx01\bin\Debug\ProgramEx01.exe
+C:\Users\wwstudent\source\repos\ProgramEx01\bin\Debug\ProgramEx01.pdb
+C:\Users\wwstudent\source\repos\ProgramEx01\obj\Debug\ProgramEx01.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\ProgramEx01\obj\Debug\ProgramEx01.exe
+C:\Users\wwstudent\source\repos\ProgramEx01\obj\Debug\ProgramEx01.pdb
