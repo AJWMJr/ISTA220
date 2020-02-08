@@ -1,0 +1,11 @@
+C:\Users\wwstudent\source\repos\CSQuiz4.5\bin\Debug\netcoreapp3.1\CSQuiz4.5.exe
+C:\Users\wwstudent\source\repos\CSQuiz4.5\bin\Debug\netcoreapp3.1\CSQuiz4.5.deps.json
+C:\Users\wwstudent\source\repos\CSQuiz4.5\bin\Debug\netcoreapp3.1\CSQuiz4.5.runtimeconfig.json
+C:\Users\wwstudent\source\repos\CSQuiz4.5\bin\Debug\netcoreapp3.1\CSQuiz4.5.runtimeconfig.dev.json
+C:\Users\wwstudent\source\repos\CSQuiz4.5\bin\Debug\netcoreapp3.1\CSQuiz4.5.dll
+C:\Users\wwstudent\source\repos\CSQuiz4.5\bin\Debug\netcoreapp3.1\CSQuiz4.5.pdb
+C:\Users\wwstudent\source\repos\CSQuiz4.5\obj\Debug\netcoreapp3.1\CSQuiz4.5.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\CSQuiz4.5\obj\Debug\netcoreapp3.1\CSQuiz4.5.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\CSQuiz4.5\obj\Debug\netcoreapp3.1\CSQuiz4.5.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\CSQuiz4.5\obj\Debug\netcoreapp3.1\CSQuiz4.5.dll
+C:\Users\wwstudent\source\repos\CSQuiz4.5\obj\Debug\netcoreapp3.1\CSQuiz4.5.pdb

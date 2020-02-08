@@ -1,0 +1,11 @@
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Quiz03\bin\Debug\netcoreapp3.1\Quiz03.exe
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Quiz03\bin\Debug\netcoreapp3.1\Quiz03.deps.json
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Quiz03\bin\Debug\netcoreapp3.1\Quiz03.runtimeconfig.json
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Quiz03\bin\Debug\netcoreapp3.1\Quiz03.runtimeconfig.dev.json
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Quiz03\bin\Debug\netcoreapp3.1\Quiz03.dll
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Quiz03\bin\Debug\netcoreapp3.1\Quiz03.pdb
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Quiz03\obj\Debug\netcoreapp3.1\Quiz03.csprojAssemblyReference.cache
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Quiz03\obj\Debug\netcoreapp3.1\Quiz03.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Quiz03\obj\Debug\netcoreapp3.1\Quiz03.AssemblyInfo.cs
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Quiz03\obj\Debug\netcoreapp3.1\Quiz03.dll
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Quiz03\obj\Debug\netcoreapp3.1\Quiz03.pdb

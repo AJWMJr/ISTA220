@@ -1,0 +1,43 @@
+private static void LoopingRecip()
+        {
+            Console.Write("Enter a positive integer to find its reciprocal: ");
+            string num = Console.ReadLine();
+            try
+            {
+                if (float.Parse(num) == 0)
+                {
+                    throw new System.DivideByZeroException("0 is not a valid integer");
+                }
+                else if (float.Parse(num) < 0)
+                {
+                    throw new System.DivideByNegativeException("Can not use a negative integer");
+                }
+                else
+                {
+                    float r = float.Parse(num);
+                    float answer = reciprocal(r);
+                    Console.WriteLine($"The reciprocal is {answer}");
+                }
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("you must enter an integer");
+                LoopingRecip();
+            }
+            catch (DivideByZeroException)
+            {
+                Console.WriteLine("0 is not a valid integer");
+                LoopingRecip();
+            }
+            catch (DivideByNegativeException)
+            {
+                Console.WriteLine("The integer must be positive");
+                LoopingRecip();
+            }
+        }
+
+        static float reciprocal(float r)
+        {
+            float answer = 1 / r;
+            return answer;
+        }
