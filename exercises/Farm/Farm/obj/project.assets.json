@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wwstudent\\Documents\\ISTA220\\Farm\\Farm\\Farm.csproj",
+      "projectUniqueName": "C:\\Users\\wwstudent\\Documents\\ISTA220\\exercises\\Farm\\Farm\\Farm.csproj",
       "projectName": "Farm",
-      "projectPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\Farm\\Farm\\Farm.csproj",
+      "projectPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\exercises\\Farm\\Farm\\Farm.csproj",
       "packagesPath": "C:\\Users\\wwstudent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\Farm\\Farm\\obj\\",
+      "outputPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\exercises\\Farm\\Farm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wwstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
