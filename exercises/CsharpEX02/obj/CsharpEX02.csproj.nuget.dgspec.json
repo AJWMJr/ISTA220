@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chain\\source\\repos\\ISTA220\\exercises\\CsharpEX02\\CsharpEX02.csproj": {}
+    "C:\\Users\\wwstudent\\Documents\\ISTA220\\exercises\\CsharpEX02\\CsharpEX02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chain\\source\\repos\\ISTA220\\exercises\\CsharpEX02\\CsharpEX02.csproj": {
+    "C:\\Users\\wwstudent\\Documents\\ISTA220\\exercises\\CsharpEX02\\CsharpEX02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chain\\source\\repos\\ISTA220\\exercises\\CsharpEX02\\CsharpEX02.csproj",
+        "projectUniqueName": "C:\\Users\\wwstudent\\Documents\\ISTA220\\exercises\\CsharpEX02\\CsharpEX02.csproj",
         "projectName": "CsharpEX02",
-        "projectPath": "C:\\Users\\Chain\\source\\repos\\ISTA220\\exercises\\CsharpEX02\\CsharpEX02.csproj",
-        "packagesPath": "C:\\Users\\Chain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chain\\source\\repos\\ISTA220\\exercises\\CsharpEX02\\obj\\",
+        "projectPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\exercises\\CsharpEX02\\CsharpEX02.csproj",
+        "packagesPath": "C:\\Users\\wwstudent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\exercises\\CsharpEX02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Chain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\wwstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -9,3 +9,14 @@ C:\Users\Chain\source\repos\ISTA220\exercises\CsharpEX02\obj\Debug\netcoreapp3.1
 C:\Users\Chain\source\repos\ISTA220\exercises\CsharpEX02\obj\Debug\netcoreapp3.1\CsharpEX02.AssemblyInfo.cs
 C:\Users\Chain\source\repos\ISTA220\exercises\CsharpEX02\obj\Debug\netcoreapp3.1\CsharpEX02.dll
 C:\Users\Chain\source\repos\ISTA220\exercises\CsharpEX02\obj\Debug\netcoreapp3.1\CsharpEX02.pdb
+C:\Users\wwstudent\Documents\ISTA220\exercises\CsharpEX02\bin\Debug\netcoreapp3.1\CsharpEX02.exe
+C:\Users\wwstudent\Documents\ISTA220\exercises\CsharpEX02\bin\Debug\netcoreapp3.1\CsharpEX02.deps.json
+C:\Users\wwstudent\Documents\ISTA220\exercises\CsharpEX02\bin\Debug\netcoreapp3.1\CsharpEX02.runtimeconfig.json
+C:\Users\wwstudent\Documents\ISTA220\exercises\CsharpEX02\bin\Debug\netcoreapp3.1\CsharpEX02.runtimeconfig.dev.json
+C:\Users\wwstudent\Documents\ISTA220\exercises\CsharpEX02\bin\Debug\netcoreapp3.1\CsharpEX02.dll
+C:\Users\wwstudent\Documents\ISTA220\exercises\CsharpEX02\bin\Debug\netcoreapp3.1\CsharpEX02.pdb
+C:\Users\wwstudent\Documents\ISTA220\exercises\CsharpEX02\obj\Debug\netcoreapp3.1\CsharpEX02.csprojAssemblyReference.cache
+C:\Users\wwstudent\Documents\ISTA220\exercises\CsharpEX02\obj\Debug\netcoreapp3.1\CsharpEX02.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Documents\ISTA220\exercises\CsharpEX02\obj\Debug\netcoreapp3.1\CsharpEX02.AssemblyInfo.cs
+C:\Users\wwstudent\Documents\ISTA220\exercises\CsharpEX02\obj\Debug\netcoreapp3.1\CsharpEX02.dll
+C:\Users\wwstudent\Documents\ISTA220\exercises\CsharpEX02\obj\Debug\netcoreapp3.1\CsharpEX02.pdb

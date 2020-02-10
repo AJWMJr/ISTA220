@@ -6,8 +6,8 @@ namespace CsharpEX02
     {
         static void Main(string[] args)
         {
-            // averageTenGrades();
-            // avgGrades();
+            averageTenGrades();
+            avgGrades();
             avgGradesF();
         }
         private static void averageTenGrades()
@@ -24,7 +24,7 @@ namespace CsharpEX02
                 x += n;
             }
             x /= 10;
-            char grade = assignG(x);
+            char grade = assignG(x); // assign letter grade based on average 
             Console.Write($"the class average is: {x} which is a {grade}");
             Console.ReadLine();
         }
@@ -46,7 +46,7 @@ namespace CsharpEX02
                     x += n;
                 }
                 x /= numG;
-                char grade = assignG(x);
+                char grade = assignG(x); // assign letter grade based on average 
                 Console.Write($"the class average is: {x} which is a {grade}");
                 Console.ReadLine();
             }
@@ -62,7 +62,7 @@ namespace CsharpEX02
             int count = 0;
             int x = 0;
             string a;
-            Console.WriteLine("enter grades (type 'quit' when done)");
+            Console.WriteLine("enter grades (type 'done' when finished)");
             for (i = 1; i <= 100; i++)
             {
                 Console.Write($"{i}: ");
@@ -78,7 +78,7 @@ namespace CsharpEX02
             }
         l1:
             x /= count;
-            char grade = assignG(x);
+            char grade = assignG(x); // assign letter grade based on average 
             Console.Write($"the class average is: {x} which is a {grade}");
             Console.ReadLine();
         }
