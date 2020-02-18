@@ -18,7 +18,6 @@ namespace Cssbs_EX05
             rotate("left", 2, A);
             rotate("right", 2, B);
             rotate("left", 4, C);
-            rotate("right", 1, A);
         }
         private static double AverageArray(int[] A)
         {
@@ -71,29 +70,28 @@ namespace Cssbs_EX05
         }
         private static int[] rotateR(int[] A)
         {
-            int i, w = 0;
-            var b = new int[A.Length];
+            int i;
+            int[] b = new int[A.Length];
             for (i = 0; i < A.Length; i++)
             {
-                w++;
-                if (w > A.Length - 1)
-                    w = 0;
-                b[i] = A[w];
+                if (i == (A.Length - 1))
+                {
+                    b[0] = A[i];
+                }
+                else
+                {
+                    b[i + 1] = A[i];
+                }
             }
             return b;
         }
         private static int[] rotateL(int[] A)
         {
-            int i, w = 0;
-            var b = new int[A.Length];
-            for (i = 0; i < A.Length; i++)
-            {
-                w++;
-                if (w > A.Length - 1)
-                    w = 0;
-                b[i] = A[w];
-            }
-            return b;
+            int i, b = A[0];
+            for (i = 0; i < A.Length - 1; i++)
+                A[i] = A[i+1];
+            A[i] = b;
+            return A;
         }
     }
 }
