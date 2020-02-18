@@ -36,9 +36,7 @@ namespace Cssbs_EX05
         {
             int i;
             for (i = 0; i < A.Length; i++)
-            {
                 Console.Write($"{A[i]} ");
-            }
             Console.WriteLine();
         }
         private static void rotate(string dir, int rep, int[] A)
@@ -60,7 +58,7 @@ namespace Cssbs_EX05
         }
         private static int[] reverse(int[] A)
         {
-            var b = new int[A.Length];
+            int[] b = new int[A.Length];
             int i, w = A.Length;
             for (i = 0; i < A.Length; i++)
             {
@@ -69,10 +67,10 @@ namespace Cssbs_EX05
             }
             return b;
         }
-        private static int[] rotateR(int[] A)
+        private static int[] rotateL(int[] A)
         {
             int i, w = 0;
-            var b = new int[A.Length];
+            int[] b = new int[A.Length];
             for (i = 0; i < A.Length; i++)
             {
                 w++;
@@ -82,9 +80,9 @@ namespace Cssbs_EX05
             }
             return b;
         }
-        private static int[] rotateL(int[] A)
+        private static int[] rotateR(int[] A)
         {
-            int i, w = 0;
+            int i, w = A.Length - 2;
             var b = new int[A.Length];
             for (i = 0; i < A.Length; i++)
             {

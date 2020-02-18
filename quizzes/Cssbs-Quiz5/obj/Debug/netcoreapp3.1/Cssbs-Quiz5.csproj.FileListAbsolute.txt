@@ -1,0 +1,11 @@
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Cssbs-Quiz5\bin\Debug\netcoreapp3.1\Cssbs-Quiz5.exe
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Cssbs-Quiz5\bin\Debug\netcoreapp3.1\Cssbs-Quiz5.deps.json
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Cssbs-Quiz5\bin\Debug\netcoreapp3.1\Cssbs-Quiz5.runtimeconfig.json
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Cssbs-Quiz5\bin\Debug\netcoreapp3.1\Cssbs-Quiz5.runtimeconfig.dev.json
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Cssbs-Quiz5\bin\Debug\netcoreapp3.1\Cssbs-Quiz5.dll
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Cssbs-Quiz5\bin\Debug\netcoreapp3.1\Cssbs-Quiz5.pdb
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Cssbs-Quiz5\obj\Debug\netcoreapp3.1\Cssbs-Quiz5.csprojAssemblyReference.cache
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Cssbs-Quiz5\obj\Debug\netcoreapp3.1\Cssbs-Quiz5.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Cssbs-Quiz5\obj\Debug\netcoreapp3.1\Cssbs-Quiz5.AssemblyInfo.cs
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Cssbs-Quiz5\obj\Debug\netcoreapp3.1\Cssbs-Quiz5.dll
+C:\Users\wwstudent\Documents\ISTA220\quizzes\Cssbs-Quiz5\obj\Debug\netcoreapp3.1\Cssbs-Quiz5.pdb
