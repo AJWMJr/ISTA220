@@ -18,7 +18,6 @@ namespace Cssbs_EX05
             rotate("left", 2, A);
             rotate("right", 2, B);
             rotate("left", 4, C);
-            rotate("right", 1, A);
         }
         private static double AverageArray(int[] A)
         {
@@ -36,7 +35,9 @@ namespace Cssbs_EX05
         {
             int i;
             for (i = 0; i < A.Length; i++)
+            {
                 Console.Write($"{A[i]} ");
+            }
             Console.WriteLine();
         }
         private static void rotate(string dir, int rep, int[] A)
@@ -58,7 +59,7 @@ namespace Cssbs_EX05
         }
         private static int[] reverse(int[] A)
         {
-            int[] b = new int[A.Length];
+            var b = new int[A.Length];
             int i, w = A.Length;
             for (i = 0; i < A.Length; i++)
             {
@@ -67,31 +68,30 @@ namespace Cssbs_EX05
             }
             return b;
         }
-        private static int[] rotateL(int[] A)
+        private static int[] rotateR(int[] A)
         {
-            int i, w = 0;
+            int i;
             int[] b = new int[A.Length];
             for (i = 0; i < A.Length; i++)
             {
-                w++;
-                if (w > A.Length - 1)
-                    w = 0;
-                b[i] = A[w];
+                if (i == (A.Length - 1))
+                {
+                    b[0] = A[i];
+                }
+                else
+                {
+                    b[i + 1] = A[i];
+                }
             }
             return b;
         }
-        private static int[] rotateR(int[] A)
+        private static int[] rotateL(int[] A)
         {
-            int i, w = A.Length - 2;
-            var b = new int[A.Length];
-            for (i = 0; i < A.Length; i++)
-            {
-                w++;
-                if (w > A.Length - 1)
-                    w = 0;
-                b[i] = A[w];
-            }
-            return b;
+            int i, b = A[0];
+            for (i = 0; i < A.Length - 1; i++)
+                A[i] = A[i+1];
+            A[i] = b;
+            return A;
         }
     }
 }
