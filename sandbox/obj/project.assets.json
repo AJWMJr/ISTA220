@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wwstudent\\Documents\\ISTA220\\Cssbs-EX05\\Cssbs-EX05.csproj",
-      "projectName": "Cssbs-EX05",
-      "projectPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\Cssbs-EX05\\Cssbs-EX05.csproj",
+      "projectUniqueName": "C:\\Users\\wwstudent\\source\\repos\\sandbox\\sandbox.csproj",
+      "projectName": "sandbox",
+      "projectPath": "C:\\Users\\wwstudent\\source\\repos\\sandbox\\sandbox.csproj",
       "packagesPath": "C:\\Users\\wwstudent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\Cssbs-EX05\\obj\\",
+      "outputPath": "C:\\Users\\wwstudent\\source\\repos\\sandbox\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wwstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",

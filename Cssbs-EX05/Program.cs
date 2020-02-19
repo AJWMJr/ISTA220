@@ -18,6 +18,7 @@ namespace Cssbs_EX05
             rotate("left", 2, A);
             rotate("right", 2, B);
             rotate("left", 4, C);
+            printArray(Sort(A));
         }
         private static double AverageArray(int[] A)
         {
@@ -92,6 +93,21 @@ namespace Cssbs_EX05
                 A[i] = A[i+1];
             A[i] = b;
             return A;
+        }
+        private static int[] Sort(int[] A)
+        {
+            int i;
+            int[] B = new int[A.Length];
+            for (i=0;i<A.Length;i++)
+            {
+                if (A[i] > A[i + 1])
+                    B[i + 1] = A[i];
+                else if (A[i] < A[i+1])
+                    B[i] = A[i];
+                else
+                    B[i] = A[i];
+            }
+            return B;
         }
     }
 }
