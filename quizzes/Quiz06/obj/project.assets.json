@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wwstudent\\Documents\\ISTA220\\sandbox\\sandbox.csproj",
-      "projectName": "sandbox",
-      "projectPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\sandbox\\sandbox.csproj",
+      "projectUniqueName": "C:\\Users\\wwstudent\\Documents\\ISTA220\\quizzes\\Quiz06\\Quiz06.csproj",
+      "projectName": "Quiz06",
+      "projectPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\quizzes\\Quiz06\\Quiz06.csproj",
       "packagesPath": "C:\\Users\\wwstudent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\sandbox\\obj\\",
+      "outputPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\quizzes\\Quiz06\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wwstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",

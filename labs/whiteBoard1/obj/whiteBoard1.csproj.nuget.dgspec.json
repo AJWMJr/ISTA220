@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wwstudent\\Documents\\ISTA220\\sandbox\\sandbox.csproj": {}
+    "C:\\Users\\wwstudent\\Documents\\ISTA220\\labs\\whiteBoard1\\whiteBoard1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wwstudent\\Documents\\ISTA220\\sandbox\\sandbox.csproj": {
+    "C:\\Users\\wwstudent\\Documents\\ISTA220\\labs\\whiteBoard1\\whiteBoard1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wwstudent\\Documents\\ISTA220\\sandbox\\sandbox.csproj",
-        "projectName": "sandbox",
-        "projectPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\sandbox\\sandbox.csproj",
+        "projectUniqueName": "C:\\Users\\wwstudent\\Documents\\ISTA220\\labs\\whiteBoard1\\whiteBoard1.csproj",
+        "projectName": "whiteBoard1",
+        "projectPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\labs\\whiteBoard1\\whiteBoard1.csproj",
         "packagesPath": "C:\\Users\\wwstudent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\sandbox\\obj\\",
+        "outputPath": "C:\\Users\\wwstudent\\Documents\\ISTA220\\labs\\whiteBoard1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wwstudent\\AppData\\Roaming\\NuGet\\NuGet.Config",

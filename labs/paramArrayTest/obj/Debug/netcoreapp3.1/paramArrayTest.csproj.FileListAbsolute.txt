@@ -1,0 +1,11 @@
+C:\Users\wwstudent\Documents\ISTA220\labs\paramArrayTest\bin\Debug\netcoreapp3.1\paramArrayTest.exe
+C:\Users\wwstudent\Documents\ISTA220\labs\paramArrayTest\bin\Debug\netcoreapp3.1\paramArrayTest.deps.json
+C:\Users\wwstudent\Documents\ISTA220\labs\paramArrayTest\bin\Debug\netcoreapp3.1\paramArrayTest.runtimeconfig.json
+C:\Users\wwstudent\Documents\ISTA220\labs\paramArrayTest\bin\Debug\netcoreapp3.1\paramArrayTest.runtimeconfig.dev.json
+C:\Users\wwstudent\Documents\ISTA220\labs\paramArrayTest\bin\Debug\netcoreapp3.1\paramArrayTest.dll
+C:\Users\wwstudent\Documents\ISTA220\labs\paramArrayTest\bin\Debug\netcoreapp3.1\paramArrayTest.pdb
+C:\Users\wwstudent\Documents\ISTA220\labs\paramArrayTest\obj\Debug\netcoreapp3.1\paramArrayTest.csprojAssemblyReference.cache
+C:\Users\wwstudent\Documents\ISTA220\labs\paramArrayTest\obj\Debug\netcoreapp3.1\paramArrayTest.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Documents\ISTA220\labs\paramArrayTest\obj\Debug\netcoreapp3.1\paramArrayTest.AssemblyInfo.cs
+C:\Users\wwstudent\Documents\ISTA220\labs\paramArrayTest\obj\Debug\netcoreapp3.1\paramArrayTest.dll
+C:\Users\wwstudent\Documents\ISTA220\labs\paramArrayTest\obj\Debug\netcoreapp3.1\paramArrayTest.pdb
