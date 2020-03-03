@@ -26,8 +26,12 @@ namespace sandbox
                 }
             */
             int[] array1 = { 1, 3, 4, 6, 8, 8, 9 };
-            int[] array2 = { 1, 2, 5, 6, 7, 11, 12, 132 };
-            Merge(array1, array2);
+            /* int[] array2 = { 1, 2, 5, 6, 7, 11, 12, 132 };
+               Merge(array1, array2);
+               */
+            int[] newArray = insertIntoArray(array1, 5);
+            foreach (int S in newArray)
+                Console.WriteLine($"the new array is {S}");
         }
 
         private static void Merge(int[] array1, int[] array2)
@@ -89,6 +93,26 @@ namespace sandbox
                 }
             }
             return A;
+        }
+        private static int[] insertIntoArray(int[] A, int v)
+        {
+            bool inserted = false;
+            int i, w = 0, len = A.Length;
+            int[] B = new int[len + 1];
+            for (i = 0; i <= len; i++)
+            {
+                if (v <= A[w] && !inserted)
+                {
+                    B[i] = v;
+                    inserted = true;
+                }
+                else
+                {
+                    B[i] = A[w];
+                    w++;
+                }
+            }
+            return B;
         }
 
     }
